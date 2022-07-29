@@ -20,8 +20,10 @@ Implemented User Registration with Asp.Net Core Web API and Angular 7.
             });
 
             services.AddCors();
-        ![image](https://user-images.githubusercontent.com/12700182/181708350-889fe0a7-b187-4034-8810-3ab2a40713c8.png)
+       
 
+ ![image](https://user-images.githubusercontent.com/12700182/181708350-889fe0a7-b187-4034-8810-3ab2a40713c8.png)
+ 
 ```
 First we install the Microsoft.EntityFrameworkCore.SqlServer NuGet Package:
 
